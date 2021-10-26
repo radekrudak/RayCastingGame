@@ -1,0 +1,5 @@
+make default --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens'
+g++ -o GAG main.cpp OnUserCreate.cpp -lX11 -lGL -lpthread -lpng -lstdc++fs -std=c++17
+make: Leaving directory '/home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens'
+ 

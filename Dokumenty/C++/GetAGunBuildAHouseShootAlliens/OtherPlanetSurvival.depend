@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1630586158 source:/home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/main.cpp
+	"Game.h"
+
+1630913141 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/Game.h
+	"olcPixelGameEngine.h"
+	"MapGen.h"
+	"Tile.h"
+	"Bullet.h"
+	"Enemy.h"
+	"Controls.h"
+
+1625409002 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/olcPixelGameEngine.h
+	"olcPixelGameEngine.h"
+	"olcPixelGameEngine.h"
+	<cmath>
+	<cstdint>
+	<string>
+	<iostream>
+	<streambuf>
+	<sstream>
+	<chrono>
+	<vector>
+	<list>
+	<thread>
+	<atomic>
+	<fstream>
+	<map>
+	<functional>
+	<algorithm>
+	<array>
+	<cstring>
+	<experimental/filesystem>
+	<filesystem>
+	<windows.h>
+	<X11/X.h>
+	<X11/Xlib.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<GLUT/glut.h>
+	<objc/message.h>
+	<objc/NSObjCRuntime.h>
+	<dwmapi.h>
+	<GL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<dwmapi.h>
+	<gl/GL.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<EGL/egl.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<emscripten/emscripten.h>
+	<objidl.h>
+	<gdiplus.h>
+	<gdiplus/gdiplusinit.h>
+	<gdiplusinit.h>
+	<shlwapi.h>
+	<png.h>
+	"stb_image.h"
+	<emscripten/html5.h>
+	<emscripten/key_codes.h>
+
+1630745704 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/MapGen.h
+	"Tile.h"
+
+1630347177 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/Tile.h
+
+1630927215 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/Controls.h
+
+1630762764 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/Bullet.h
+
+1630766182 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/Enemy.h
+
+1630690513 source:/home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/FindPath.cpp
+	"olcPixelGameEngine.h"
+
+1630742891 /home/krzyzowiec/Dokumenty/C++/OtherPlanetSurvival/FindPath.h
+
+1632051977 source:/home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/main.cpp
+	"Game.h"
+
+1632143031 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/Game.h
+	"olcPixelGameEngine.h"
+	<functional>
+	"MapGen.h"
+	"Tile.h"
+	"Bullet.h"
+	"Enemy.h"
+	"Item.h"
+	"FindPath.h"
+	"Controls.h"
+
+1632052282 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/olcPixelGameEngine.h
+	"olcPixelGameEngine.h"
+	"olcPixelGameEngine.h"
+	<cmath>
+	<cstdint>
+	<string>
+	<iostream>
+	<streambuf>
+	<sstream>
+	<chrono>
+	<vector>
+	<list>
+	<thread>
+	<atomic>
+	<fstream>
+	<map>
+	<functional>
+	<algorithm>
+	<array>
+	<cstring>
+	<experimental/filesystem>
+	<filesystem>
+	<windows.h>
+	<X11/X.h>
+	<X11/Xlib.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<GLUT/glut.h>
+	<objc/message.h>
+	<objc/NSObjCRuntime.h>
+	<dwmapi.h>
+	<GL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<dwmapi.h>
+	<gl/GL.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<EGL/egl.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<emscripten/emscripten.h>
+	<objidl.h>
+	<gdiplus.h>
+	<gdiplus/gdiplusinit.h>
+	<gdiplusinit.h>
+	<shlwapi.h>
+	<png.h>
+	"stb_image.h"
+	<emscripten/html5.h>
+	<emscripten/key_codes.h>
+
+1631955877 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/MapGen.h
+	"olcPixelGameEngine.h"
+	"Tile.h"
+
+1631636084 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/Tile.h
+	"Item.h"
+
+1631123029 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/Bullet.h
+
+1631977299 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/Enemy.h
+	"FindPath.h"
+
+1632233594 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/Controls.h
+
+1631213785 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/Item.h
+	"Tile.h"
+
+1631214945 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/Start.cpp
+
+1632163423 /home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/FindPath.h
+	"Game.h"
+
+1632052248 source:/home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/GameStart.cpp
+	"Game.h"
+

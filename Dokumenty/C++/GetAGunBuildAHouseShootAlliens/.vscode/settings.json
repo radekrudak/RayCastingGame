@@ -1,0 +1,11 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens",
+            "binaryPath": "/home/krzyzowiec/Dokumenty/C++/GetAGunBuildAHouseShootAlliens/GAG",
+            "binaryArgs": []
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}
